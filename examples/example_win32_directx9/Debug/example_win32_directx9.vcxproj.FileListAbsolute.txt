@@ -1,0 +1,3 @@
+C:\Users\ASUS\Desktop\claritytipa\examples\example_win32_directx9\Debug\example_win32_directx9.exe
+C:\Users\spina\Downloads\claritytipa\claritytipa\examples\example_win32_directx9\Debug\example_win32_directx9.exe
+C:\Users\vaynh\Desktop\claritytipa\examples\example_win32_directx9\Debug\example_win32_directx9.exe
